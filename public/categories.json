@@ -1,0 +1,56 @@
+[
+    {
+        "category_name": "Bracelets",
+        "img": "https://i.ibb.co/RCD3M4S/Gold-Bracelet.jpg",
+        "product_name": "Gold Bracelet",
+        "location": "California",
+        "resale_price": "400.00",
+        "original_price": "600.00",
+        "usage_duration": "3 years"
+    },
+    {
+        "category_name": "Bracelets",
+        "img": "https://i.ibb.co/ZVpmgjq/Diamond-Bracelet.jpg",
+        "product_name": "Diamond Bracelet",
+        "location": "Texas",
+        "resale_price": "500.00",
+        "original_price": "1050.00",
+        "usage_duration": "2 years"
+    },
+    {
+        "category_name": "Earrings",
+        "img": "https://i.ibb.co/vqH0Cd0/Gold-Earring.jpg",
+        "product_name": "Gold Earring",
+        "location": "New York",
+        "resale_price": "200.00",
+        "original_price": "400.00",
+        "usage_duration": "1 year"
+    },
+    {
+        "category_name": "Earrings",
+        "img": "https://i.ibb.co/JsW3N0F/Diamond-Earring.jpg",
+        "product_name": "Diamond Earring",
+        "location": "Chicago",
+        "resale_price": "400.00",
+        "original_price": "900.00",
+        "usage_duration": "2 years"
+    },
+    {
+        "category_name": "Pendants",
+        "img": "https://i.ibb.co/vYDvsv1/Gold-Pendant.jpg",
+        "product_name": "Gold Pendant",
+        "location": "Washington",
+        "resale_price": "100.00",
+        "original_price": "300.00",
+        "usage_duration": "4 years"
+    },
+    {
+        "category_name": "Pendants",
+        "img": "https://i.ibb.co/VJz7dNG/Diamond-Pendant.jpg",
+        "product_name": "Diamond Pendant",
+        "location": "Massachusetts",
+        "resale_price": "500.00",
+        "original_price": "700.00",
+        "usage_duration": "3 years"
+    }
+]
